@@ -1,0 +1,7 @@
+D:\đồ án 1\doan1\obj\Debug\doan1.csprojAssemblyReference.cache
+D:\đồ án 1\doan1\obj\Debug\doan1.csproj.CoreCompileInputs.cache
+D:\đồ án 1\doan1\bin\Debug\doan1.exe.config
+D:\đồ án 1\doan1\bin\Debug\doan1.exe
+D:\đồ án 1\doan1\bin\Debug\doan1.pdb
+D:\đồ án 1\doan1\obj\Debug\doan1.exe
+D:\đồ án 1\doan1\obj\Debug\doan1.pdb
